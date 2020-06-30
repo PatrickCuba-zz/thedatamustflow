@@ -4,10 +4,10 @@ Visio stencils and artefacts related to data vault guru
 * **Hub**<br>
 ![Image|512x397, 20%][1]<br>
 A unique list of business entities.<br>
-* Link<br>
+* **Link**<br>
 ![Image][2]<br>
 A unique list of relationships.<br>
-* Satellite<br>
+* **Satellite**<br>
 ![Image][3]<br>
 Time-variant record of changes against a hub or a link.<br>
 
