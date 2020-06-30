@@ -1,5 +1,8 @@
 # thedatamustflow
-Visio stencils and artefacts related to data vault guru
+Visio stencils and artefacts related to data vault guru.
+Click the link above for the downloadable stencil for Visio.
+Use the art if you wish to create your own.
+The art and stencils are provided under Creative Commons licensing.
 
 * **Hub**
 * **Link**
