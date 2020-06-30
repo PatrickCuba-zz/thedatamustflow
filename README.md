@@ -2,10 +2,10 @@
 Visio stencils and artefacts related to data vault guru
 
 * Hub<br>
-![Image][1]
-* Link
+![Image][1 =100x20]
+* Link<br>
 ![Image][2]
-* Satellite
+* Satellite<br>
 ![Image][3]
 
 [1]: https://github.com/PatrickCuba/thedatamustflow/blob/master/art/RV-1HUB.png
