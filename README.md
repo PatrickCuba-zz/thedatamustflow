@@ -7,12 +7,9 @@ Visio stencils and artefacts related to data vault guru
 * **Link**<br>
 <img src="./art/RV-2LINK.png" alt="Link"
 	title="A unique list of relationships" width="150" height="150" /><br>
-A unique list of relationships.<br>
 * **Satellite**<br>
-![Image][3]<br>
-Time-variant record of changes against a hub or a link.<br>
-
-[3]: ./art/RV-3SATELLITE.png
+<img src="./art/RV-3SATELLITE.png" alt="Satellite"
+	title="Time-variant record of changes against a hub or a link" width="150" height="150" /><br>
 
 ## Additional variations of links<br>
 
