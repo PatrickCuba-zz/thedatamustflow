@@ -2,7 +2,7 @@
 Visio stencils and artefacts related to data vault guru
 
 * Hub<br>
-![Image][1=250px]<br>
+![Image][1 =250px]<br>
 A unique list of business entities.<br>
 * Link<br>
 ![Image][2]<br>
@@ -61,3 +61,9 @@ Time-line correction satellite<br>
 ![Image][12]<br>
 
 [12]: ./art/RV-3SATELLITE-RECORDTRACKINGEXTENDED.png
+
+Business vault<br>
+These are no different to raw vault artefacts except that we are storing the derived output using the above raw vault loading patterns.
+![Image][13]<br>
+
+[13]: ./art/BV-1HUB.png
