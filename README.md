@@ -64,6 +64,40 @@ Time-line correction satellite<br>
 
 Business vault<br>
 These are no different to raw vault artefacts except that we are storing the derived output using the above raw vault loading patterns.
+* Hub<br>
 ![Image][13]<br>
+* Link<br>
+![Image][14]<br>
+* Link with dependent child key<br>
+![Image][15]<br>
+* Exploration link<br>
+![Image][16]<br>
+Temporary link testing out possible relationships.
+* Satellite<br>
+![Image][17]<br>
+* Satellite with a dependent-child key<br>
+!][Image][18]<br>
+* Multi-active satellite<br>
+![Image][19]<br>
 
 [13]: ./art/BV-1HUB.png
+[14]: ./art/BV-2LINK.png
+[15]: ./art/BV-2LINK-DEPKEY.png
+[16]: ./art/BV-2LINK-EXPLORE.png
+[17]: ./art/BV-3SATELLITE.png
+[18]: ./art/BV-3SATELLITE-DEPKEY.png
+[19]: ./art/BV-3SATELLITE-MULTIACTIVE.png
+
+Reference data<br>
+![Image][20]<br>
+
+[20]: ./art/REFERENCE.png
+
+Query assistance tables<br>
+Quaery assistance structures are needed if direct method to get data out of data vault is slow or needs optimisation. This can be achieved by using index optimised data structures that point directly to the indexes in the data vault.<br>
+* Point-in-time (PIT) tables<br>
+![Image][21]<br>
+* Bridge tables<br>
+![Image]{22}<br>
+[21]: ./art/PIT.png
+[22]: ./art/BRIDGE.png
