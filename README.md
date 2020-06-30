@@ -3,7 +3,7 @@ Visio stencils and artefacts related to data vault guru
 
 * **Hub**
 * **Link**
-* **Satellite**
+* **Satellite**<br>
 <img src="./art/RV-1HUB.png" alt="Hub"
 	title="A unique list of business entities" width="120" height="120" />
 <img src="./art/RV-2LINK.png" alt="Link"
@@ -12,13 +12,13 @@ Visio stencils and artefacts related to data vault guru
   title="Time-variant record of changes against a hub or a link" width="150" height="150" /><br>
 
 ## Additional variations of links<br>
-* **Link with a dependent-child key**<br>
+* **Link with a dependent-child key**
+* **Hierarchy link (HAL)**
+* **Same-as link (SAL)**<br>
 <img src="./art/RV-2LINK-DEPKEY.png" alt="Link-DepKey"
 	title="This is a link that has a degenerate dimension that is applicable to all participants of a relationship" width="150" height="150" /><br>
-* **Hierarchy link (HAL)**<br>
 <img src="./art/RV-2LINK-HIERARCHY.png" alt="Link-DepKey"
 	title="A hierarchy depicted using a link" width="150" height="150" /><br>
-* **Same-as link (SAL)**<br>
 <img src="./art/RV-2LINK-SAME-AS.png" alt="Link-DepKey"
 	title="Two or more entities representing the same entity depicted using a link" width="150" height="150" /><br>
 HAL and SAL are conceptual representations of the relationship, in truth they are simply just links and a link may include a combination of relationships all represented in a single link.<br>
