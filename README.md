@@ -2,7 +2,7 @@
 Visio stencils and artefacts related to data vault guru
 
 * Hub<br>
-![Image][1 | width=250]<br>
+![Image][1]<br>
 A unique list of business entities.<br>
 * Link<br>
 ![Image][2]<br>
@@ -11,7 +11,7 @@ A unique list of relationships.<br>
 ![Image][3]<br>
 Time-variant record of changes against a hub or a link.<br>
 
-[1]: ./art/RV-1HUB.png
+[1]: (./art/RV-1HUB.png | width=100)
 [2]: ./art/RV-2LINK.png
 [3]: ./art/RV-3SATELLITE.png
 
@@ -98,7 +98,7 @@ Query assistance structures are needed if direct method to get data out of data 
 * Point-in-time (PIT) tables<br>
 ![Image][21]<br>
 * Bridge tables<br>
-![Image]{22}<br>
+![Image][22]<br>
 
 [21]: ./art/PIT.png
 [22]: ./art/BRIDGE.png
