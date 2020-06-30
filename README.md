@@ -2,7 +2,8 @@
 Visio stencils and artefacts related to data vault guru
 
 * **Hub**<br>
-![Image][1#thumbnail]<br>
+![Image][1]<br>
+![hub](./art/RV-1HUB.png#thumbnail)
 A unique list of business entities.<br>
 * **Link**<br>
 ![Image][2]<br>
