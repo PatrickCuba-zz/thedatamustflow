@@ -24,9 +24,9 @@ Visio stencils and artefacts related to data vault guru
 HAL and SAL are conceptual representations of the relationship, in truth they are simply just links and a link may include a combination of relationships all represented in a single link.<br>
 
 ## Additional variations of satellites<br>
-* Satellite with dependent-child key
-* Multi-active satellite
-* Effectivity satellite<br>
+* **Satellite with dependent-child key**
+* **Multi-active satellite**
+* **Effectivity satellite**<br>
 <img src="./art/RV-3SATELLITE-DEPKEY.png" alt="Link-DepKey"
 	title="Changes are tracked against the hub or link and an additional key that categorises or subsets the parent key.
   This key can also be an intra-day batch key." width="150" height="150" />
@@ -36,21 +36,17 @@ HAL and SAL are conceptual representations of the relationship, in truth they ar
 	title="A satellite designed to track the movement of a driving key against the non-driving keys members of a link." width="150" height="150" /><br>
 
 ## Peripheral satellites<br>
-* Record tracking satellite<br>
-![Image][10]<br>
-A satellite designed to track the last time a business entity or relationship was seen.
-* Status tracking satellite<br>
-![Image][11]<br>
-A satellite designed to track if a business entity or relationship exists by comparing the ingested data against what was captured beforehand for that business entity or relationship.<br>
-
-[10]: ./art/RV-3SATELLITE-RECORDTRACKING.png
-[11]: ./art/RV-3SATELLITE-STATUSTRACKING.png
+* **Record tracking satellite**
+* **Status tracking satellite**<br>
+<img src="./art/RV-3SATELLITE-RECORDTRACKING.png" alt="Link-DepKey"
+	title="A satellite designed to track the last time a business entity or relationship was seen." width="150" height="150" />
+<img src="./art/RV-3SATELLITE-STATUSTRACKING.png" alt="Link-DepKey"
+	title="A satellite designed to track if a business entity or relationship exists by comparing the ingested data against what was captured beforehand for that business entity or relationship." width="150" height="150" /><br>
 
 ## Time-line correction satellite<br>
-* Extended record tracking satellite<br>
-![Image][12]<br>
-
-[12]: ./art/RV-3SATELLITE-RECORDTRACKINGEXTENDED.png
+* **Extended record tracking satellite**<br>
+<img src="./art/RV-3SATELLITE-RECORDTRACKINGEXTENDED.png" alt="Link-DepKey"
+	title="An extension of the record tracking satellite used in tandem to keep an adjacent satellite's timeline correct in the event of a record arriving out of sequence" width="150" height="150" /><br>
 
 ## Business vault<br>
 These are no different to raw vault artefacts except that we are storing the derived output using the above raw vault loading patterns.
