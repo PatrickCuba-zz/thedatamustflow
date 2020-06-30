@@ -2,7 +2,7 @@
 Visio stencils and artefacts related to data vault guru
 
 * Hub<br>
-![Image][1 =250px]<br>
+![Image][1 | width=250]<br>
 A unique list of business entities.<br>
 * Link<br>
 ![Image][2]<br>
@@ -15,7 +15,7 @@ Time-variant record of changes against a hub or a link.<br>
 [2]: ./art/RV-2LINK.png
 [3]: ./art/RV-3SATELLITE.png
 
-Additional variations of links<br>
+## Additional variations of links<br>
 
 * Link with a dependent-child key<br>
 ![Image][4]<br>
@@ -30,7 +30,7 @@ HAL and SAL are conceptual representations of the relationship, in truth they ar
 [5]: ./art/RV-2LINK-HIERARCHY.png
 [6]: ./art/RV-2LINK-SAME-AS.png
 
-Additional variations of satellites<br>
+## Additional variations of satellites<br>
 * Satellite with dependent-child key<br>
 ![Image][7]<br>
 Changes are tracked against the hub or link and an additional key that categorises or subsets the parent key.
@@ -42,7 +42,7 @@ Changes are tracked against a set of active records, any change to any member of
 ![Image][9]<br>
 A satellite designed to track the movement of a driving key against the non-driving keys members of a link.<br>
 
-Peripheral satellites<br>
+## Peripheral satellites<br>
 * Record tracking satellite<br>
 ![Image][10]<br>
 A satellite designed to track the last time a business entity or relationship was seen.
@@ -56,13 +56,13 @@ A satellite designed to track if a business entity or relationship exists by com
 [10]: ./art/RV-3SATELLITE-RECORDTRACKING.png
 [11]: ./art/RV-3SATELLITE-STATUSTRACKING.png
 
-Time-line correction satellite<br>
+## Time-line correction satellite<br>
 * Extended record tracking satellite<br>
 ![Image][12]<br>
 
 [12]: ./art/RV-3SATELLITE-RECORDTRACKINGEXTENDED.png
 
-Business vault<br>
+## Business vault<br>
 These are no different to raw vault artefacts except that we are storing the derived output using the above raw vault loading patterns.
 * Hub<br>
 ![Image][13]<br>
@@ -93,11 +93,12 @@ Reference data<br>
 
 [20]: ./art/REFERENCE.png
 
-Query assistance tables<br>
-Quaery assistance structures are needed if direct method to get data out of data vault is slow or needs optimisation. This can be achieved by using index optimised data structures that point directly to the indexes in the data vault.<br>
+## Query assistance tables<br>
+Query assistance structures are needed if direct method to get data out of data vault is slow or needs optimisation. This can be achieved by using index optimised data structures that point directly to the indexes in the data vault.<br>
 * Point-in-time (PIT) tables<br>
 ![Image][21]<br>
 * Bridge tables<br>
 ![Image]{22}<br>
+
 [21]: ./art/PIT.png
 [22]: ./art/BRIDGE.png
