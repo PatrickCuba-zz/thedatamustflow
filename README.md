@@ -3,7 +3,9 @@ Visio stencils and artefacts related to data vault guru
 
 * **Hub**<br>
 ![Image][1]<br>
-![hub](./art/RV-1HUB.png#thumbnail)
+![hub](./art/RV-1HUB.png#thumbnail)<br>
+<img src="./art/RV-1HUB.png" alt="Kitten"
+	title="A cute kitten" width="150" height="100" /><br>
 A unique list of business entities.<br>
 * **Link**<br>
 ![Image][2]<br>
