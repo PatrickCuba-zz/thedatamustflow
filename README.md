@@ -72,17 +72,15 @@ These are no different to raw vault artefacts except that we are storing the der
 <img src="./art/BV-3SATELLITE-MULTIACTIVE.png" alt="BV Multi-Active Satellite"
 	title="Multi-active BV satellite" width="150" height="150" /><br>
 
-Reference data<br>
-![Image][20]<br>
-
-[20]: ./art/REFERENCE.png
+## Reference data<br>
+<img src="./art/REFERENCE.png" alt="Reference data lookup"
+	title="Reference data lookup" width="150" height="150" /><br>
 
 ## Query assistance tables<br>
 Query assistance structures are needed if direct method to get data out of data vault is slow or needs optimisation. This can be achieved by using index optimised data structures that point directly to the indexes in the data vault.<br>
-* Point-in-time (PIT) tables<br>
-![Image][21]<br>
-* Bridge tables<br>
-![Image][22]<br>
-
-[21]: ./art/PIT.png
-[22]: ./art/BRIDGE.png
+* **Point-in-time (PIT) tables**
+* **Bridge tables**<br>
+<img src="./art/PIT.png" alt="PIT"
+	title="Point-in-time (PIT) table" width="150" height="150" /><br>
+<img src="./art/BRIDGE.png" alt="Bridge"
+	title="Bridge table" width="150" height="150" /><br>
