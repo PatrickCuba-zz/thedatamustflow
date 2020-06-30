@@ -1,7 +1,7 @@
 # thedatamustflow
 Visio stencils and artefacts related to data vault guru
 
-* Hub
+* Hub<br>
 ![Image][1]
 * Link
 ![Image][2]
