@@ -11,7 +11,7 @@ A unique list of relationships.<br>
 ![Image][3]<br>
 Time-variant record of changes against a hub or a link.<br>
 
-[1]: ./art/RV-1HUB.png
+[1]: ./art/RV-1HUB.png =250px
 [2]: ./art/RV-2LINK.png
 [3]: ./art/RV-3SATELLITE.png
 
