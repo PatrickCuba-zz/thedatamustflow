@@ -84,6 +84,6 @@ Query assistance structures are needed if direct method to get data out of data 
 * **Point-in-time (PIT) tables**
 * **Bridge tables**<br>
 <img src="./art/PIT.png" alt="PIT"
-	title="Point-in-time (PIT) table" width="150" height="150" /><br>
+	title="Point-in-time (PIT) table" width="150" height="150" />
 <img src="./art/BRIDGE.png" alt="Bridge"
 	title="Bridge table" width="150" height="100" /><br>
