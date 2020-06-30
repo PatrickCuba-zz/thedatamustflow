@@ -16,24 +16,24 @@ Visio stencils and artefacts related to data vault guru
 * **Hierarchy link (HAL)**
 * **Same-as link (SAL)**<br>
 <img src="./art/RV-2LINK-DEPKEY.png" alt="Link-DepKey"
-	title="This is a link that has a degenerate dimension that is applicable to all participants of a relationship" width="150" height="150" /><br>
+	title="This is a link that has a degenerate dimension that is applicable to all participants of a relationship" width="150" height="150" />
 <img src="./art/RV-2LINK-HIERARCHY.png" alt="Link-DepKey"
-	title="A hierarchy depicted using a link" width="150" height="150" /><br>
+	title="A hierarchy depicted using a link" width="150" height="150" />
 <img src="./art/RV-2LINK-SAME-AS.png" alt="Link-DepKey"
-	title="Two or more entities representing the same entity depicted using a link" width="150" height="150" /><br>
+	title="Two or more entities representing the same entity depicted using a link" width="150" height="150" />
 HAL and SAL are conceptual representations of the relationship, in truth they are simply just links and a link may include a combination of relationships all represented in a single link.<br>
 
 ## Additional variations of satellites<br>
-* Satellite with dependent-child key<br>
-![Image][7]<br>
-Changes are tracked against the hub or link and an additional key that categorises or subsets the parent key.
-This key can also be an intra-day batch key.<br>
-* Multi-active satellite<br>
-![Image][8]<br>
-Changes are tracked against a set of active records, any change to any member of the set or the number of records in a set causes the new set to be inserted and becomes the active set.<br>
+* Satellite with dependent-child key
+* Multi-active satellite
 * Effectivity satellite<br>
-![Image][9]<br>
-A satellite designed to track the movement of a driving key against the non-driving keys members of a link.<br>
+<img src="./art/RV-3SATELLITE-DEPKEY.png" alt="Link-DepKey"
+	title="Changes are tracked against the hub or link and an additional key that categorises or subsets the parent key.
+  This key can also be an intra-day batch key." width="150" height="150" />
+<img src="./art/RV-3SATELLITE-MULTIACTIVE.png" alt="Link-DepKey"
+	title="Changes are tracked against a set of active records, any change to any member of the set or the number of records in a set causes the new set to be inserted and becomes the active set." width="150" height="150" />
+<img src="./art/RV-3SATELLITE-EFFECTIVITY.png" alt="Link-DepKey"
+	title="A satellite designed to track the movement of a driving key against the non-driving keys members of a link." width="150" height="150" /><br>
 
 ## Peripheral satellites<br>
 * Record tracking satellite<br>
@@ -43,9 +43,6 @@ A satellite designed to track the last time a business entity or relationship wa
 ![Image][11]<br>
 A satellite designed to track if a business entity or relationship exists by comparing the ingested data against what was captured beforehand for that business entity or relationship.<br>
 
-[7]: ./art/RV-3SATELLITE-DEPKEY.png
-[8]: ./art/RV-3SATELLITE-MULTIACTIVE.png
-[9]: ./art/RV-3SATELLITE-EFFECTIVITY.png
 [10]: ./art/RV-3SATELLITE-RECORDTRACKING.png
 [11]: ./art/RV-3SATELLITE-STATUSTRACKING.png
 
