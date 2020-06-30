@@ -2,20 +2,16 @@
 Visio stencils and artefacts related to data vault guru
 
 * **Hub**<br>
-![Image][1]<br>
-![hub](./art/RV-1HUB.png#thumbnail)<br>
 <img src="./art/RV-1HUB.png" alt="Hub"
 	title="A unique list of business entities" width="150" height="150" /><br>
-A unique list of business entities.<br>
 * **Link**<br>
-![Image][2]<br>
+<img src="./art/RV-2LINK.png" alt="Link"
+	title="A unique list of relationships" width="150" height="150" /><br>
 A unique list of relationships.<br>
 * **Satellite**<br>
 ![Image][3]<br>
 Time-variant record of changes against a hub or a link.<br>
 
-[1]: ./art/RV-1HUB.png
-[2]: ./art/RV-2LINK.png
 [3]: ./art/RV-3SATELLITE.png
 
 ## Additional variations of links<br>
