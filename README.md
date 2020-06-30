@@ -1,15 +1,15 @@
 # thedatamustflow
 Visio stencils and artefacts related to data vault guru
 
-* **Hub**<br>
+* **Hub**
+* **Link**
+* **Satellite**
 <img src="./art/RV-1HUB.png" alt="Hub"
-	title="A unique list of business entities" width="120" height="120" /><br>
-* **Link**<br>
+	title="A unique list of business entities" width="120" height="120" />
 <img src="./art/RV-2LINK.png" alt="Link"
-	title="A unique list of relationships" width="150" height="150" /><br>
-* **Satellite**<br>
+  title="A unique list of relationships" width="150" height="150" />
 <img src="./art/RV-3SATELLITE.png" alt="Satellite"
-	title="Time-variant record of changes against a hub or a link" width="150" height="150" /><br>
+  title="Time-variant record of changes against a hub or a link" width="150" height="150" /><br>
 
 ## Additional variations of links<br>
 * **Link with a dependent-child key**<br>
