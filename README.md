@@ -88,3 +88,11 @@ Query assistance structures are needed if direct method to get data out of data 
 	title="Point-in-time (PIT) table" width="150" height="150" />
 <img src="./art/BRIDGE.png" alt="Bridge"
 	title="Bridge table" width="150" height="100" /><br>
+
+## Misc
+* **Views**
+* **Staging**<br>
+<img src="./art/VIEW.png" alt="Views"
+	title="Simplifying data vault consumption and deriving data marts" width="150" height="150" />
+<img src="./art/STAGING.png" alt="Staging"
+	title="Staging to add data vault metadata tags" width="150" height="150" />
