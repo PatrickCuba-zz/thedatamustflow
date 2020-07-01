@@ -1,3 +1,6 @@
+<img src="./datavaultguru header.png" alt="Header"
+	title="DV Header"/>
+
 # thedatamustflow
 Visio stencils and artefacts related to data vault guru.
 Click the link above for the downloadable stencil for Visio.
