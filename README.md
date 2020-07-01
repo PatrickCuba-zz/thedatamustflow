@@ -95,4 +95,4 @@ Query assistance structures are needed if direct method to get data out of data 
 <img src="./art/VIEW.png" alt="Views"
 	title="Simplifying data vault consumption and deriving data marts" width="150" height="120" />
 <img src="./art/STAGING.png" alt="Staging"
-	title="Staging to add data vault metadata tags" width="150" height="150" />
+	title="Staging to add data vault metadata tags" width="120" height="120" />
