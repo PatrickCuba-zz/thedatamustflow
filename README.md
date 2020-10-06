@@ -2,7 +2,8 @@
 	title="DV Header"/>
 
 # thedatamustflow
-Visio stencils and artefacts related to data vault guru.
+#datavault #data-vault
+<br> Visio stencils and artefacts related to data vault guru.
 Click the link above for the downloadable stencil for Visio.
 Use the art if you wish to create your own. And if you like upload your work to this repo.
 The art and stencils are provided under Creative Commons licensing.<br>
