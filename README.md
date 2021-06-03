@@ -9,6 +9,7 @@ Use the art if you wish to create your own. And if you like upload your work to 
 The art and stencils are provided under Creative Commons licensing.<br>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 <br> Find the book at Amazon, Kindle and Paperpack, click [US](https://amzn.to/3d7LsJV), [UK](https://amzn.to/3nsqTfR) and [AU](https://amzn.to/30IxOYF)
+<br> And now find your favourite book art available at Red Bubble! Click https://rdbl.co/3uMEReY
 
 * **Hub**
 * **Link**
